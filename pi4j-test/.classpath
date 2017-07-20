@@ -2,6 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="C:/jython2.2.1/jython.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joanie/Downloads/pi4j-1.1/pi4j-1.1/lib/pi4j-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joanie/Downloads/pi4j-1.1/pi4j-1.1/lib/pi4j-gpio-extension.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
